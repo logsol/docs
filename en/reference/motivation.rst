@@ -48,7 +48,7 @@ How does a PHP C-extension work?
 How does Phalcon work?
 ----------------------
 * Components are loosely coupled. With Phalcon, nothing is imposed on you: you're free to use the full framework, or just some parts of it as a glue components.
-* Low-level optimizations provides the lowest overhead for MVC-based applications
+* Low-level optimizations provide the lowest overhead for MVC-based applications
 * Interact with databases with maximum performance by using a C-language ORM for PHP
 * Phalcon directly accesses internal PHP structures optimizing execution in that way as well
 
